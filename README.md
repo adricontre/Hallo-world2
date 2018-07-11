@@ -1,2 +1,1 @@
-# Hallo-world2
-Hello World exercice
+Hello world, I'm new in git and github
